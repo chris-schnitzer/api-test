@@ -1,5 +1,4 @@
 [[headers]]
   for = "/*" 
   [headers.values]
-    access-control-allow-origin: https://sage-mousse-8c21de.netlify.app
-     
+    access-control-allow-origin: "*"
